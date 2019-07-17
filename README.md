@@ -1,7 +1,11 @@
 # SeniorInfo
 
-This page is intended to be used by the [Social Development Center](https://www.waterlooregion.org), to start an online database for all the needs senior citizens have in the region.
+---
+layout: default
+title: Home
+---
 
-The site will be hosted by [info.waterlooregion.org](https://www.info.waterlooregion.org)
-___
+# Waterloo Region Senior Info
 
+<p class="lead"><a href="{{site.baseurl}}/candidates/">Candidate information</a> for the October 27 election. An <a href="{{site.baseurl}}/open-data/">open data</a> project from the <a href="http://waterlooregion.org/">Social Planning Council</a>.</p>
+<p class="lead">Read more about <a href="http://waterlooregion.org/municipal-elections-2014">the municipal election on our main site</a>.</p>
