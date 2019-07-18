@@ -3,9 +3,9 @@
 
 title: Waterloo Region for Seniors
 description: A resource for all seniors to get everything that they're looking for
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 #remote_theme: "mmistakes/minimal-mistakes@4.16.4"
-#theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 # baseurl:'/seniorinfo'
 
 author:
