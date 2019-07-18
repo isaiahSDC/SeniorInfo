@@ -1,18 +1,6 @@
 
 # Setup
 
-title: Waterloo Region for Seniors
-description: A resource for all seniors to get everything that they're looking for
-theme: jekyll-theme-minimal
-#baseurl:'/seniorinfo'
-
-author:
-  name:     'Isaiah Thompson'
-  url:      https://isaiahsdc.github.io
-  
-github:
-  repo:     https://github.com/isaiahSDC/SeniorInfo
-
-logo: [Location of the logo]
-show_downloads: "false"
-google_analytics: [Your Google Analytics tracking ID]
+title:        Waterloo Region for Seniors
+description:  A resource for all seniors to get everything that they're looking for
+theme:        jekyll-theme-minimal
