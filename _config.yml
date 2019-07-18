@@ -4,7 +4,7 @@
 title: Waterloo Region for Seniors
 description: A resource for all seniors to get everything that they're looking for
 theme: jekyll-theme-minimal
-baseurl:'/seniorinfo'
+#baseurl:'/seniorinfo'
 
 author:
   name:     'Isaiah Thompson'
