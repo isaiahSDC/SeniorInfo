@@ -11,5 +11,5 @@ If you delay until age 70, you will recieve it with an increase, known as a **Po
 
 >To apply for any CPP program call +1-800-277-9914 
 >Or vsit the region's Service:
-> * Market Square Suite 200, 25 Fredrick St., Kitchener
-> * 350 Conestoga Blvd, Unit C1, Cambridge
+>   * Market Square Suite 200, 25 Fredrick St., Kitchener
+>   * 350 Conestoga Blvd, Unit C1, Cambridge
