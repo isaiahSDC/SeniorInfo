@@ -22,7 +22,7 @@ title: Above 65+ page for content
 [Community Services & Discounts](./commservice.html)
 
 
-[Back](./)
+[Back](./index.html)
 
 For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
 
