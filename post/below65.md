@@ -5,7 +5,7 @@ title: Below 65
 
 ## If you're age is below
 
-[Canada Pension Plan (CPP) Age 60-64](./CPP60-64.html)
+[Canada Pension Plan (CPP) Age 60-64](./post/CPP60-64.html)
 
 LINK - Canada OAS (<65)
 
