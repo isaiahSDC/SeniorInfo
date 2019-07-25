@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  CPP plan for seniors under 60
 ---
 
