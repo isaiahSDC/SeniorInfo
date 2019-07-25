@@ -5,7 +5,7 @@ title: Above 65+ page for content
 
 ## If you're age is 65+
 
-[Canada Pension Plan (CPP)] (./CPPa65.html)
+[Canada Pension Plan (CPP)](./CPPa65.html)
 
 [Canada OAS (65+)](./COASa65.html)
 
@@ -13,13 +13,13 @@ title: Above 65+ page for content
 
 [Energy](./energy.html)
 
-LINK - Housing/Utilities
+[Housing & Utilities](./housing.html)
 
-LINK - Veteran-specific programs
+[Veteran-specific programs](./veteran.html)
 
-LINK - Disability-specific programs
+[Disability-specific programs](./disability.html)
 
-LINK - Community Services/Discounts
+[Community Services & Discounts](./commservice.html)
 
 
 [Back](./)
