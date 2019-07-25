@@ -22,6 +22,8 @@ LINK - Disability-specific programs
 LINK - Community Services/Discounts
 
 
+[Back](./)
+
 For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
 
 
