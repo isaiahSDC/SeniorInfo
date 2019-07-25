@@ -5,13 +5,13 @@ title: Above 65+ page for content
 
 ## If you're age is 65+
 
-[Canada Pension Plan (CPP)] (https://isaiahsdc.github.io/SeniorInfo/CPPa65)
+[Canada Pension Plan (CPP)] (./CPPa65.html)
 
-LINK - Canada OAS (65+)
+[Canada OAS (65+)](./COASa65.html)
 
-LINK - Prescription Drugs (65+)
+[Prescription Drugs (65+)](./pdrugsa65.html)
 
-LINK - Energy
+[Energy](./energy.html)
 
 LINK - Housing/Utilities
 
